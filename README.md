@@ -1,2 +1,2 @@
 # calculator
-i have completed the task given by Oasis Infobyte .
+I  have completed the task given by Oasis Infobyte .
